@@ -1,0 +1,6 @@
+{
+    // Path to the Python interpreter used to RUN YOUR SCRIPT (the debuggee).
+    // This is independent of Sublime's own plugin-host Python version --
+    // it just needs to be able to run your target file.
+    "python_bin": "python3"
+}

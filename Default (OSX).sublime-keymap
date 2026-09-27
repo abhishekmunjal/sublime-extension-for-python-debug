@@ -1,0 +1,7 @@
+[
+    { "keys": ["super+shift+d"], "command": "pdb_debug_start" },
+    { "keys": ["super+shift+o"], "command": "pdb_debug_step_over" },
+    { "keys": ["super+shift+i"], "command": "pdb_debug_step" },
+    { "keys": ["super+shift+c"], "command": "pdb_debug_continue" },
+    { "keys": ["super+shift+k"], "command": "pdb_debug_stop" }
+]
